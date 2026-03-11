@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php 
-            echo 'Olá mundo!';
-            phpinfo();
+        echo 'Olá mundo!';
+        phpinfo();
     ?>
 </body>
 </html>

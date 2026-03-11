@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php 
-        require 'Caneta.php';    
+        require 'Caneta.php';
+        use Caneta;
         $c1 = new Caneta;
         $c1->modelo = "Bic";
         $c1->cor = "Azul";
