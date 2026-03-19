@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Objetos</title>
-    <link rel="stylesheet" href="php/ContaBanco.php">
 </head>
 <body>
     <pre>
